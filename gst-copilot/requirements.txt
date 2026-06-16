@@ -1,0 +1,20 @@
+# GST Copilot backend + pipeline
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-multipart==0.0.12
+pandas==2.2.3
+rapidfuzz==3.10.0
+python-dateutil==2.9.0.post0
+
+# Pipeline orchestration (optional to run; core engine works without it)
+prefect==3.0.4
+
+# LLM + extraction (optional; engine has an offline fallback when keys/libs are absent)
+openai==1.51.0
+
+# Pitch deck generation
+python-pptx==1.0.2
+
+# Tests
+pytest==8.3.3

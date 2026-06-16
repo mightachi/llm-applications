@@ -1,0 +1,124 @@
+{
+  "data": {
+    "rtnprd": "042026",
+    "gstin": "27ABCDE1234F1Z5",
+    "docdata": {
+      "b2b": [
+        {
+          "ctin": "27AAACS1111A1Z1",
+          "trdnm": "Sai Traders",
+          "inv": [
+            {
+              "inum": "INV-1001",
+              "dt": "05-04-2026",
+              "txval": 100000,
+              "items": [
+                {
+                  "txval": 100000,
+                  "camt": 9000,
+                  "samt": 9000,
+                  "iamt": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ctin": "27AAACS2222B1Z2",
+          "trdnm": "Bharat Steel",
+          "inv": [
+            {
+              "inum": "INV-1002",
+              "dt": "07-04-2026",
+              "txval": 240000,
+              "items": [
+                {
+                  "txval": 240000,
+                  "camt": 21600,
+                  "samt": 21600,
+                  "iamt": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ctin": "24AAACG3333C1Z3",
+          "trdnm": "Gujarat Polymers",
+          "inv": [
+            {
+              "inum": "GJ778",
+              "dt": "09-04-2026",
+              "txval": 180000,
+              "items": [
+                {
+                  "txval": 180000,
+                  "camt": 0,
+                  "samt": 0,
+                  "iamt": 32400
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ctin": "29AAACS5555E1Z5",
+          "trdnm": "Bengaluru Components",
+          "inv": [
+            {
+              "inum": "BLR-9001",
+              "dt": "12-04-2026",
+              "txval": 320000,
+              "items": [
+                {
+                  "txval": 320000,
+                  "camt": 0,
+                  "samt": 0,
+                  "iamt": 57600
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ctin": "27AAACS6666F1Z6",
+          "trdnm": "Konkan Logistics",
+          "inv": [
+            {
+              "inum": "KL-204",
+              "dt": "14-04-2026",
+              "txval": 45000,
+              "items": [
+                {
+                  "txval": 45000,
+                  "camt": 4050,
+                  "samt": 4050,
+                  "iamt": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ctin": "27AAACS8888H1Z8",
+          "trdnm": "Nashik Chemicals",
+          "inv": [
+            {
+              "inum": "NC-77",
+              "dt": "15-04-2026",
+              "txval": 70000,
+              "items": [
+                {
+                  "txval": 70000,
+                  "camt": 6300,
+                  "samt": 6300,
+                  "iamt": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
